@@ -1,9 +1,7 @@
-# README
+# GETTER DONE
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A to-do list app written in javascript, html, CSS. Users can list tasks and organize, allowing com,pleted tasks to strike-thru.
 
-Things you may want to cover:
 
 * Ruby version
 
